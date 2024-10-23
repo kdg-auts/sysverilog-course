@@ -65,7 +65,7 @@ endmodule
 
 Мультиплексор 4-в-1: 
 
-![Мультиплексор 4-в-1](mfigures/ux_4to1.png)
+![Мультиплексор 4-в-1](figures/mux_4to1.png)
 
 [mux_4to1.sv](src_code/mux_4to1.sv)
 
